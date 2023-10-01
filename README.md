@@ -4,7 +4,6 @@
 
 <p align="left">
 <img src="https://github.com/Shivansh20128/Shivansh20128/blob/3d5c8db066179249ae9ec42449d0253aee8d3885/octocat-1696150297184.png" alt="octocat" width="335" ">
-<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" alt="coding-vibe" width="335">
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt"workspace" width="330">
 </p>
 <p>My current projects include work in:
