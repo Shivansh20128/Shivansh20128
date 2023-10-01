@@ -26,14 +26,46 @@ Tools and Simulators I have used:
 <a href="https://www.jetbrains.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/74038190/238200437-de038172-e903-4951-926c-755878deb0b4.gif" alt="scikit_learn" width="60" height="60"/> </a>
 
 </p>
-<br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivansh20128&show_icons=true&locale=en&layout=compact" alt="shivansh20128" /></p>
 
-<br> 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivansh20128&show_icons=true&locale=en" alt="shivansh20128" /></p>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=shivansh20128&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=shivansh20128&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=shivansh20128&show_icons=true" />
+</picture>
+
+<picture>
+  <source
+    srcset="https://github-readme-streak-stats.herokuapp.com/?user=shivansh20128&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-streak-stats.herokuapp.com/?user=shivansh20128&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=shivansh20128&show_icons=true" />
+</picture>
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=shivansh20128&show_icons=true&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=shivansh20128&show_icons=true&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=shivansh20128&show_icons=true" />
+</picture>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivansh20128&" alt="shivansh20128" /></p>
+
+
 
 <!--
 **Shivansh20128/Shivansh20128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
