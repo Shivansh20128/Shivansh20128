@@ -26,7 +26,9 @@ Tools and Simulators I have used:
 <a href="https://www.jetbrains.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/74038190/238200437-de038172-e903-4951-926c-755878deb0b4.gif" alt="scikit_learn" width="60" height="60"/> </a>
 
 [![An image of @shivansh20128's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shivansh20128)](https://holopin.io/@shivansh20128)
+
 </p>
+<picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=shivansh20128&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
