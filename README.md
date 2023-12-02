@@ -13,12 +13,14 @@
 3. Android Development and Mobile Computing
 4. Cloud Computing
 5. Web Development
+6. Machine Learning
 
 Tools and Simulators I have used:
 1. Snipersim
 2. Gem5
 3. Vegvisir
 4. Wireshark
+5. Jupyter Notebook
 
 </p>
 <h3 align="left">Languages and Tools:</h3>
