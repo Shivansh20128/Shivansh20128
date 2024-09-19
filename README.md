@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Shivansh Mittal</h1>
-<h3 align="left">Software Developer and Reseacher</h3>
+<h3 align="left">Software Developer and Researcher</h3>
 
 <p align="left">
 <img src="https://github.com/Shivansh20128/Shivansh20128/blob/3d5c8db066179249ae9ec42449d0253aee8d3885/octocat-1696150297184.png" alt="octocat" width="335" ">
