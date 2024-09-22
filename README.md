@@ -53,7 +53,7 @@ Tools and Simulators I have used:
   />
   <img src="https://github-readme-stats.vercel.app/api?username=shivansh20128&show_icons=true" />
 </picture>
-<!-- ![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shivansh18) -->
+
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs?username=shivansh20128&show_icons=true&show_icons=true&theme=dark"
@@ -65,13 +65,6 @@ Tools and Simulators I have used:
   />
   <img src="https://github-readme-stats.vercel.app/api?username=shivansh20128&show_icons=true" />
 </picture>
-
-<!--START_SECTION:waka-->
-<figure><embed src="https://wakatime.com/share/@shivansh18/c9416f33-1f3c-4346-981f-9fbb08698420.svg"></embed></figure>
-<!--END_SECTION:waka-->
-
-
-
 
 <!--
 **Shivansh20128/Shivansh20128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
