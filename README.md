@@ -66,6 +66,9 @@ Tools and Simulators I have used:
   <img src="https://github-readme-stats.vercel.app/api?username=shivansh20128&show_icons=true" />
 </picture>
 
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
 
 
 
