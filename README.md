@@ -67,7 +67,7 @@ Tools and Simulators I have used:
 </picture>
 
 <!--START_SECTION:waka-->
-
+<figure><embed src="https://wakatime.com/share/@shivansh18/c9416f33-1f3c-4346-981f-9fbb08698420.svg"></embed></figure>
 <!--END_SECTION:waka-->
 
 
