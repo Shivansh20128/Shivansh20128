@@ -66,6 +66,8 @@ Tools and Simulators I have used:
   <img src="https://github-readme-stats.vercel.app/api?username=shivansh20128&show_icons=true" />
 </picture>
 
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shivansh18)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **Shivansh20128/Shivansh20128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
