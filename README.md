@@ -8,19 +8,21 @@
 </p>
 <p>My current projects include work in:
   
-1. Networking
-2. Computer Architecture
-3. Android Development and Mobile Computing
-4. Cloud Computing
-5. Web Development
-6. Machine Learning
+1. Quantum Computing
+2. Networking
+3. Computer Architecture
+4. Android Development and Mobile Computing
+5. Cloud Computing
+6. Web Development
+7. Machine Learning
 
 Tools and Simulators I have used:
-1. Snipersim
-2. Gem5
-3. Vegvisir
-4. Wireshark
-5. Jupyter Notebook
+1. Qiskit Aer
+2. Snipersim
+3. Gem5
+4. Vegvisir
+5. Wireshark
+6. Jupyter Notebook
 
 </p>
 <h3 align="left">Languages and Tools:</h3>
