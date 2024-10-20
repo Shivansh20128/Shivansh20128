@@ -22,8 +22,6 @@ Tools and Simulators I have used:
 3. Snipersim
 4. Gem5
 5. Vegvisir
-6. Wireshark
-7. Jupyter Notebook
 
 </p>
 <h3 align="left">Languages and Tools:</h3>
