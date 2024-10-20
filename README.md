@@ -18,11 +18,12 @@
 
 Tools and Simulators I have used:
 1. Qiskit Aer
-2. Snipersim
-3. Gem5
-4. Vegvisir
-5. Wireshark
-6. Jupyter Notebook
+2. Toqito
+3. Snipersim
+4. Gem5
+5. Vegvisir
+6. Wireshark
+7. Jupyter Notebook
 
 </p>
 <h3 align="left">Languages and Tools:</h3>
