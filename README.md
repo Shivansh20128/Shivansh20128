@@ -39,11 +39,15 @@ Tools and Simulators I have used:
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivansh20128&show_icons=true&show_icons=true&theme=dark" />
 </a>
 
+
 <a href="https://github.com/Shivansh20128/Shivansh20128">
   <img height=200 align="center" src="https://streak-stats.demolab.com?user=shivansh20128&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&show_icons=true&theme=dark" />
 </a>
 <a href="https://github.com/Shivansh20128/Shivansh20128">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=shivansh18&card_width=320" />
+</a>
+<a href="https://github.com/Shivansh20128/Shivansh20128">
+  <img height=400 align="center" src="https://wakatime.com/share/@shivansh18/88bc3a6b-f6fb-4da0-b9ae-5903ca8c2e14.svg" />
 </a>
 
 
