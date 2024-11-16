@@ -46,9 +46,9 @@ Tools and Simulators I have used:
 <a href="https://github.com/Shivansh20128/Shivansh20128">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=shivansh18&card_width=320" />
 </a>
-<a href="https://github.com/Shivansh20128/Shivansh20128">
+<!-- <a href="https://github.com/Shivansh20128/Shivansh20128">
   <img height=400 align="center" src="https://wakatime.com/share/@shivansh18/88bc3a6b-f6fb-4da0-b9ae-5903ca8c2e14.svg" />
-</a>
+</a> -->
 
 
 
