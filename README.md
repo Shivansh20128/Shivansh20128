@@ -32,75 +32,16 @@ Tools and Simulators I have used:
 
 </p>
 
-<a href="https://github.com/Shivansh20128/Shivansh20128">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=shivansh20128&show_icons=true&theme=dark" />
-</a>
-<a href="https://github.com/Shivansh20128/Shivansh20128">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivansh20128&show_icons=true&show_icons=true&theme=dark" />
-</a>
-
-
-<a href="https://github.com/Shivansh20128/Shivansh20128">
-  <img height=200 align="center" src="https://streak-stats.demolab.com?user=shivansh20128&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&show_icons=true&theme=dark" />
-</a>
+## GitHub Analytics
+<div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shivansh20128&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Shivansh's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivansh20128&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" alt="Top Languages" />
+</div>
+<div class="grid grid-cols-1 md:grid-cols-2 gap-4 mt-4">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shivansh20128&theme=black-ice&hide_border=true&mode=weekly&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="Shivansh's GitHub Streak" />
+  <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shivansh20128&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+</div>
 <a href="https://github.com/Shivansh20128/Shivansh20128">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=shivansh18&card_width=320" />
 </a>
-<!-- <a href="https://github.com/Shivansh20128/Shivansh20128">
-  <img height=400 align="center" src="https://wakatime.com/share/@shivansh18/88bc3a6b-f6fb-4da0-b9ae-5903ca8c2e14.svg" />
-</a> -->
 
-
-
-<!-- <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=shivansh20128&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=shivansh20128&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=shivansh20128&show_icons=true" />
-</picture> -->
-
-<!-- <picture>-->
-<!--   <source
-    srcset="https://github-readme-streak-stats.herokuapp.com/?user=shivansh20128&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-streak-stats.herokuapp.com/?user=shivansh20128&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=shivansh20128&show_icons=true" />
-</picture> -->
-
-<!-- <picture> -->
-<!--   <source -->
-<!--     srcset="https://github-readme-stats.vercel.app/api/top-langs?username=shivansh20128&show_icons=true&show_icons=true&theme=dark" -->
-<!--     media="(prefers-color-scheme: dark)" -->
-<!--   /> -->
-<!--   <source -->
-<!--     srcset="https://github-readme-stats.vercel.app/api/top-langs?username=shivansh20128&show_icons=true&show_icons=true" -->
-<!--     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" -->
-<!--   /> -->
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=shivansh20128&show_icons=true" /> -->
-<!-- </picture> -->
-
-
-
-<!--
-**Shivansh20128/Shivansh20128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
